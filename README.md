@@ -421,7 +421,7 @@ dept_emp.head()
 </table>
 </div>
 
-2. Create a histogram to visualize the most common salary ranges for employees.
+Create a histogram to visualize the most common salary ranges for employees.
 
 ![Histogram](https://github.com/Robert-W2019/sql-challenge/blob/main/Employee%20SQL/Outputs/output_17_0.png?raw=true)
 
