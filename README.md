@@ -1,33 +1,36 @@
 # sql-challenge
 
-#Table Schema
 
+#Table Schema
+![Schema](https://github.com/Robert-W2019/sql-challenge/blob/main/Employee%20SQL/QuickDBD-export%20(3).png?raw=true)
 
 #Database Analysis
 
+#Dummy Data - private info not disclosed
+
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
-[Q1 Result](http://github.com)
+[Q1 Result](https://raw.githubusercontent.com/Robert-W2019/sql-challenge/main/Employee%20SQL/Outputs/Q1.csv)
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
-[Q2 Result](http://github.com)
+[Q2 Result](https://github.com/Robert-W2019/sql-challenge/blob/main/Employee%20SQL/Outputs/Q2.csv)
 
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
-[Q3 Result](http://github.com)
+[Q3 Result](https://github.com/Robert-W2019/sql-challenge/blob/main/Employee%20SQL/Outputs/Q3.csv)
 
 4. List the department of each employee with the following information: employee number, last name, first name, and department name.
-[Q4 Result](http://github.com)
+[Q4 Result](https://raw.githubusercontent.com/Robert-W2019/sql-challenge/main/Employee%20SQL/Outputs/Q4.csv)
 
 5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
-[Q5 Result](http://github.com)
+[Q5 Result](https://github.com/Robert-W2019/sql-challenge/blob/main/Employee%20SQL/Outputs/Q5.csv)
 
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
-[Q6 Result](http://github.com)
+[Q6 Result](https://raw.githubusercontent.com/Robert-W2019/sql-challenge/main/Employee%20SQL/Outputs/Q6.csv)
 
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
-[Q7 Result](http://github.com)
+[Q7 Result](https://raw.githubusercontent.com/Robert-W2019/sql-challenge/main/Employee%20SQL/Outputs/Q7.csv)
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
-[Q8 Result](http://github.com)
+[Q8 Result](https://github.com/Robert-W2019/sql-challenge/blob/main/Employee%20SQL/Outputs/Q8.csv)
 
 #Bonus (Optional)
 
@@ -420,6 +423,6 @@ dept_emp.head()
 
 2. Create a histogram to visualize the most common salary ranges for employees.
 
-![Histogram]()
+![Histogram](https://github.com/Robert-W2019/sql-challenge/blob/main/Employee%20SQL/Outputs/output_17_0.png?raw=true)
 
 
